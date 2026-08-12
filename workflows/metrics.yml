@@ -1,0 +1,21 @@
+name: Metrics
+on:
+  workflow_dispatch:
+  schedule: [{cron: "0 0 * * *"}]
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: biszdevelopers
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Los_Angeles
+          filename: github-metrics.svg
+          committer_message: "chore: update metrics"
