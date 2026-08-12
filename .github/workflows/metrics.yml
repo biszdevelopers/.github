@@ -28,8 +28,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
-          plugin_repositories: yes
-          plugin_repositories_pinned: 4
           plugin_lines: yes
           plugin_lines_sections: base
           plugin_lines_repositories_limit: 4
@@ -41,4 +39,4 @@ jobs:
           plugin_traffic: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
-          config_order: base.header, introduction, languages, repositories, lines, people, traffic, followup, community, activity, metadata
+          config_order: base.header, introduction, languages, lines, people, traffic, followup, community, activity, metadata
