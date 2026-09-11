@@ -59,14 +59,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="493.9082620198403" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="493.9082620198403" y="0" width="212.45112770571782" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="706.3593897255581" y="0" width="113.34748627033902" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="819.7068759958972" y="0" width="52.4270709930396" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="872.1339469889368" y="0" width="42.61627726534675" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="914.7502242542836" y="0" width="3.395387742279786" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="918.1456119965633" y="0" width="1.1045195281008595" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="919.2501315246642" y="0" width="0.7498684753358137" height="8" fill="#519aba"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="493.7010342391927" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="493.7010342391927" y="0" width="212.7479921110745" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="706.4490263502672" y="0" width="113.29992936589338" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="819.7489557161606" y="0" width="52.405074305793846" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="872.1540300219544" y="0" width="42.5983968668269" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="914.7524268887814" y="0" width="3.393963148442474" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="918.1463900372238" y="0" width="1.104056107769411" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="919.2504461449932" y="0" width="0.7495538550067551" height="8" fill="#519aba"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -78,7 +78,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>53.69%</div>
+                                <div>53.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,7 +102,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>23.09%</div>
+                                <div>23.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -387,7 +387,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    445k added, 274k removed
+                                    383k added, 214k removed
                                 </div>
                             </section>
                             <section>
@@ -427,7 +427,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 10 Sept 2026, 08:24:37 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Sept 2026, 18:53:42 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
